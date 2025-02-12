@@ -5,8 +5,13 @@ The system consists of three LEDs (Red, Yellow, Green) representing standard tra
 
 # Features:
 *✅ Realistic Traffic Light Cycle – The system follows a standard Green → Yellow → Red → Green sequence, simulating real-world traffic signals.
+
 ✅ Pedestrian Crossing Mechanism – A push button allows pedestrians to request a safe crossing by immediately turning the light Red.
+
 ✅ Automatic Return to Normal Operation – After the pedestrian phase, the system resumes its normal traffic light cycle automatically.
+
 ✅ Debounced Button Input – Ensures accurate detection of pedestrian requests, preventing false triggers due to button noise.
+
 ✅ Efficient and Cost-Effective – Uses basic electronic components like LEDs, resistors, and an Arduino Uno, making it an affordable and scalable solution.
+
 ✅ Ideal for Beginners and Learning – Provides hands-on experience with Arduino programming, input/output control, and real-world automation concepts.
