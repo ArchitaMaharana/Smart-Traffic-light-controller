@@ -14,4 +14,3 @@ The system consists of three LEDs (Red, Yellow, Green) representing standard tra
 
 ✅ Efficient and Cost-Effective – Uses basic electronic components like LEDs, resistors, and an Arduino Uno, making it an affordable and scalable solution.
 
-✅ Ideal for Beginners and Learning – Provides hands-on experience with Arduino programming, input/output control, and real-world automation concepts.
