@@ -4,7 +4,7 @@
 The system consists of three LEDs (Red, Yellow, Green) representing standard traffic signals and a push button that allows pedestrians to request a safe crossing. When the button is pressed, the traffic light immediately turns Red to stop vehicles and allow pedestrians to cross safely. After a brief delay, the system resumes its normal Green → Yellow → Red cycle.
 
 # Features:
-*✅ Realistic Traffic Light Cycle – The system follows a standard Green → Yellow → Red → Green sequence, simulating real-world traffic signals.
+✅ Realistic Traffic Light Cycle – The system follows a standard Green → Yellow → Red → Green sequence, simulating real-world traffic signals.
 
 ✅ Pedestrian Crossing Mechanism – A push button allows pedestrians to request a safe crossing by immediately turning the light Red.
 
