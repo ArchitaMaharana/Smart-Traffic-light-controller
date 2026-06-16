@@ -14,3 +14,5 @@ The system consists of three LEDs (Red, Yellow, Green) representing standard tra
 
 ✅ Efficient and Cost-Effective – Uses basic electronic components like LEDs, resistors, and an Arduino Uno, making it an affordable and scalable solution.
 
+# Tinkercad Link:
+https://www.tinkercad.com/things/5ijqjo9HNlW-dazzling-blorr?sharecode=GZVP3f51U5zaysxjHwp9K3qfCHiife0f4BC3auFaRkM
